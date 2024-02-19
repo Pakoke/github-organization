@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Pakoke/github-organization">
-    <img src="images/githuborganization.png" alt="Logo" width="80" height="80">
+    <img src="images/githuborganization.png" alt="Logo" width="120" height="80">
   </a>
 
   <h3 align="center">Github Organization</h3>
